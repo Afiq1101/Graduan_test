@@ -2,7 +2,7 @@
 
 Graduan Test Project
 
-Test video link:https://drive.google.com/file/d/1m1gmGunuIqKoXqyysMPucDGYtl09V1B_/view?usp=sharing
+Test video link: https://drive.google.com/file/d/1wP5yiwlMFjxuylgy2v9TdUW1u9Pqr1Yp/view?usp=sharing
 
 ## Getting Started
 
