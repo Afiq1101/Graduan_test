@@ -2,6 +2,8 @@
 
 Graduan Test Project
 
+Test video link:https://drive.google.com/file/d/1m1gmGunuIqKoXqyysMPucDGYtl09V1B_/view?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
